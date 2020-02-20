@@ -10,6 +10,11 @@
             "name": "Igor GAMATH",
             "email": "ig.gamath@gmail.com",
             "homepage": "https://igamath.com"
+        },
+        {
+            "name": "igorcyberdyne",
+            "email": "ekolo.openeducation@gmail.com",
+            "homepage": "https://igamath.com"
         }
     ],
     "require": {
