@@ -1,4 +1,21 @@
 {
     "name": "congo/localization",
-    "description": "Localization the city of Congo"
+    "description": "Localization the city of Congo",
+    "type": "library",
+    "keywords": ["congo", "localization", "city"],
+    "homepage": "https://github.com/IAICongoCommunity/congo-localization",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor GAMATH",
+            "email": "ig.gamath@gmail.com",
+            "homepage": "https://igamath.com"
+        }
+    ],
+    "require": {
+        "php": "^5.4 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {"Congo\\Localization\\": "src/"}
+    }
 }
