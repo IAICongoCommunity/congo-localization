@@ -32,4 +32,19 @@ abstract class Region{
 	const LIKOUALA = "Likouala";
 	const LEKOUMOU = "Lékoumou";
 	const POOL = "Pool";
+
+	const LIST = [
+		self::BRAZZAVILLE,
+		self::POINTE_KOUILOU,
+		self::NIARI,
+		self::BOUENZA,
+		self::KOUILOU,
+		self::SANGHA,
+		self::CUVETTE,
+		self::CUVETTE_OUEST,
+		self::PLATEAUX,
+		self::LIKOUALA,
+		self::LEKOUMOU,
+		self::POOL
+	];
 }

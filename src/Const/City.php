@@ -35,4 +35,21 @@ abstract class City{
 	const KINKALA = "Kinkala";
 	const MAKOUA = "Makoua";
 
+	const LIST = [
+		self::BRAZZAVILLE,
+		self::POINTE_NOIRE,
+		self::DOLISIE,
+		self::NKAYI,
+		self::LOANDJILI,
+		self::OUESSO,
+		self::MADINGOU,
+		self::OWANDO,
+		self::GAMBOMA,
+		self::IMPFONDO,
+		self::SIBITI,
+		self::MOSSENDJO,
+		self::KINKALA,
+		self::MAKOUA
+	];
+
 }
