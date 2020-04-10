@@ -20,9 +20,36 @@ namespace Congo\Localization\Const;
  */
 abstract class City{
 
-	const BRAZZAVILLE = "BRAZZAVILLE";
-	const POINTE_NOIRE = "POINTE_NOIRE";
-	const NKAYI = "NKAYI";
-	const DOLISIE = "DOLISIE";
-	
+	const BRAZZAVILLE = "Brazzaville";
+	const POINTE_NOIRE = "Pointe-Noire";
+	const DOLISIE = "Dolisie";
+	const NKAYI = "Nkayi";
+	const LOANDJILI = "Loandjili";
+	const OUESSO = "Ouesso";
+	const MADINGOU = "Madingou";
+	const OWANDO = "Owando";
+	const GAMBOMA = "Gamboma";
+	const IMPFONDO = "Impfondo";
+	const SIBITI = "Sibiti";
+	const MOSSENDJO = "Mossendjo";
+	const KINKALA = "Kinkala";
+	const MAKOUA = "Makoua";
+
+	const LIST = [
+		self::BRAZZAVILLE,
+		self::POINTE_NOIRE,
+		self::DOLISIE,
+		self::NKAYI,
+		self::LOANDJILI,
+		self::OUESSO,
+		self::MADINGOU,
+		self::OWANDO,
+		self::GAMBOMA,
+		self::IMPFONDO,
+		self::SIBITI,
+		self::MOSSENDJO,
+		self::KINKALA,
+		self::MAKOUA
+	];
+
 }
